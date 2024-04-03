@@ -1,0 +1,23 @@
+{
+  "name": "ws-experiment",
+  "version": "1.0.0",
+  "description": "Based on example from: https://javascript.info/websocket",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tghosth/ws-experiment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tghosth/ws-experiment/issues"
+  },
+  "homepage": "https://github.com/tghosth/ws-experiment#readme",
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
